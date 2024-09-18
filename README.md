@@ -2,6 +2,7 @@
 
 Este é um aplicativo simples que captura prints da tela e os salva em um arquivo PDF. Ele é útil para gerar relatórios visuais, documentações ou armazenar imagens de forma organizada em um único arquivo.
 
+
 ![Interface Inicial](imagens/inicio.png)
 ![Salvando Pdf](imagens/salvando.png)
 
