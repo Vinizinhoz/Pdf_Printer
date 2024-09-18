@@ -17,8 +17,11 @@ Antes de rodar o script, certifique-se de que tem os seguintes requisitos instal
 
 ## Aplicativo
 
-Na pasta 'pdf.printer.app' é possivel encontrar o executavel dele, onde não é preciso requisito para funcionar.
+É possivel tranforma-lo em um aplicativo com os comandos
 
+```bash
+flet pack main.py
+```
 ### Instalar Dependências
 
 Você pode instalar as dependências necessárias com o seguinte comando:
