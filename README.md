@@ -11,6 +11,8 @@ Este é um aplicativo simples que captura prints da tela e os salva em um arquiv
 - Salva os prints em um arquivo PDF.
 - Interface fácil de usar para quem precisa gerar PDFs rapidamente a partir de capturas de tela.
 
+![Funcionalidade](imagens/inicio_exp.png)
+
 ## Requisitos
 
 Antes de rodar o script, certifique-se de que tem os seguintes requisitos instalados:
